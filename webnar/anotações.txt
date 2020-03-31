@@ -1,0 +1,2 @@
+Vizualizar conteudo no arquivo json
+	> type package.json
